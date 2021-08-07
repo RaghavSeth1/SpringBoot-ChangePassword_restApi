@@ -16,6 +16,7 @@ http://IP:8080/changePassword?oldPassword=Asdf1234@%23qwerttyy&newPassword=Blkh9
 - To IMPORT : Open POSTMAN--> Collection--> Import --> Link and paste below link.
 
 - Postman: https://www.getpostman.com/collections/f3dc558ad280aed2e74a
+- Please note this API code does not have logic to validate 80% similar password logic. That logic can be checked in other Junit project.
 
 Please let me know in case of any issues.
 
