@@ -5,7 +5,7 @@ RestAPI has been developed using Spring Boot and deployed on AWS Tomcat Server.
 
 GIT Repo for Spring Boot basic GET project: https://github.com/RaghavSeth1/SpringBoot-ChangePassword_restApi 
 
-URL to access the API deploted on AWS.Please note ,as this is public IP , Cant keep it on git , So I will share the IP on separate email.Please replace that below for <IP>
+URL to access the API deployed on AWS.Please note ,as this is public IP , Cant keep it on git , So I will share the IP on separate email.Please replace that below for <IP>
 http://IP:8080/changePassword?oldPassword=Asdf1234@%23qwerttyy&newPassword=Blkh9876!@uirqrewq
 
 
