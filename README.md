@@ -21,3 +21,9 @@ http://IP:8080/changePassword?oldPassword=Asdf1234@%23qwerttyy&newPassword=Blkh9
 Please let me know in case of any issues.
 
 Please find the attached test approach document for this requirement.
+  
+**How to Deploy on AWS:**
+  - Build your jar in eclipse : mvn clean install --> Jar will be created in target foler.
+  - Create t2.micro EC2 instance , Login using ssh key -->  Copy jar to EC2 instance (Ubuntu t2.micro) 
+  - Login to Ubuntu Box --> Go to path where you have copied .jar
+  - Run command: java -jar "Yourjarname".jar or to run in background: **nohup java -jar "Yourjarname".jar &**
